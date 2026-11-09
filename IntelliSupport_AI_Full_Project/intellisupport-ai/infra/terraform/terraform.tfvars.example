@@ -1,0 +1,4 @@
+aws_region = "ap-south-1"
+project_name = "intellisupport-ai"
+db_password = "CHANGE_ME"
+container_image = "ACCOUNT_ID.dkr.ecr.ap-south-1.amazonaws.com/intellisupport-ai:latest"
